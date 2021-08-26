@@ -1,3 +1,5 @@
+> **IMPORTANT: the group and repository has moved to the W3C group github repo at https://github.com/w3c/dpv/ This repository is kept for archival purposes and will be removed.**
+
 # use-cases
 
 This repository is meant for collecting use-cases and user-stories for the development of requirements for [Data Privacy Vocabulary](http://w3.org/ns/dpv) and other deliverables within the [W3C Data Privacy Vocabularies and Controls Community Group (DPVCG)](https://www.w3.org/community/dpvcg/).
